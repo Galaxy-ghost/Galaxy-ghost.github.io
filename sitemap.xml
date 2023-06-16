@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://galaxy-ghost.github.io/posts/a444b428.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://galaxy-ghost.github.io/posts/f7a7d551.html</loc>
     
     <lastmod>2023-06-16</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://galaxy-ghost.github.io/posts/e5fa644c.html</loc>
-    
-    <lastmod>2023-06-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://galaxy-ghost.github.io/posts/a444b428.html</loc>
     
     <lastmod>2023-06-16</lastmod>
     
@@ -65,6 +65,13 @@
 
   
   <url>
+    <loc>https://galaxy-ghost.github.io/tags/%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2023-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://galaxy-ghost.github.io/tags/%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2023-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,13 +80,6 @@
   
   <url>
     <loc>https://galaxy-ghost.github.io/tags/%E5%9B%BE%E8%AE%BA/</loc>
-    <lastmod>2023-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://galaxy-ghost.github.io/tags/%E6%8E%92%E5%BA%8F/</loc>
     <lastmod>2023-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
